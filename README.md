@@ -1,2 +1,2 @@
 # Ant-Game-Repo
-The project its about Catching ants 
+The project is about Catching ants 
